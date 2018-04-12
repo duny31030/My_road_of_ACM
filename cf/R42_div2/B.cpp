@@ -99,7 +99,7 @@ int main()
 						}
 						else
 						{
-							// printf("i = %d\n a + %lld",i,a);
+							// printf("i = %d a + %lld\n",i,a);
 							p += a;
 							a = 0;
 						}
@@ -191,10 +191,11 @@ int main()
 			}
 			else
 			{
-				p++;
+				temp++;
 			}
 		
 	}
+	// cout << "a = " << a << "b = " << b << endl;
 	// printf("p = %lld p + %lld\n",p,temp > (a+b) ? (a+b) : temp);
 	p += temp > (a+b) ? (a+b) : temp;
 	printf("%lld\n",p);
