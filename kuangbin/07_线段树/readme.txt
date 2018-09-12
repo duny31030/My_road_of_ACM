@@ -1,1 +1,0 @@
-https://vjudge.net/contest/66989#overview
