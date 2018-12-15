@@ -1,0 +1,7 @@
+i = 1  a[i] = 0  b1 = 3
+i = 1  query() = 0
+i = 2  a[i] = 2  b1 = 4
+i = 2  query() = 0
+i = 3  a[i] = -1  b1 = 2
+i = 3  query() = 2
+2
